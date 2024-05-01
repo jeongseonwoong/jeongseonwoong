@@ -23,10 +23,6 @@
 <br/>
 
 ## 🌱백준 티어
-
-<div align="center">
-
-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjsdnd1219)](https://solved.ac/tjsdnd1219)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjsdnd1219)](https://solved.ac/tjsdnd1219)
 
 <div></div>
